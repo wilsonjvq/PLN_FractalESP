@@ -1,0 +1,55 @@
+{
+    "formas": {
+        "triangulo": {
+            "nombre": "Triángulo de Sierpinski",
+            "descripcion": "Construcción recursiva basada en la subdivisión de un triángulo",
+            "sinonimos": [
+                "triángulo",
+                "triangulo",
+                "sierpinski",
+                "triángulo de sierpinski",
+                "triangulo de sierpinski"
+            ]
+        },
+        "copo": {
+            "nombre": "Copo de nieve de Koch",
+            "descripcion": "Fractal geométrico construido mediante subdivisiones sucesivas de segmentos",
+            "sinonimos": [
+                "copo",
+                "copo de nieve",
+                "copo de koch",
+                "koch"
+            ]
+        },
+        "cantor": {
+            "nombre": "Conjunto de Cantor",
+            "descripcion": "Estructura obtenida mediante la eliminación repetitiva de segmentos",
+            "sinonimos": [
+                "cantor",
+                "conjunto de cantor"
+            ]
+        },
+        "helecho": {
+            "nombre": "Helecho de Barnsley",
+            "descripcion": "Fractal generado mediante transformaciones matemáticas iterativas",
+            "sinonimos": [
+                "helecho",
+                "helecho de barnsley",
+                "barnsley"
+            ]
+        }
+    },
+    "colores": [
+        "azul",
+        "rojo",
+        "verde",
+        "negro",
+        "blanco",
+        "amarillo",
+        "morado",
+        "violeta",
+        "naranja",
+        "cian",
+        "magenta"
+    ]
+}
